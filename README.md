@@ -1,5 +1,4 @@
 ## Introduction, Background, & Disclaimers
-![Full Stack](https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg)
 
 Hello everyone, in this post I will be writing a detailed guide on how to get a full-stack engineer job the self teaching way. This will include a more efficient version of what I did so you don't waste time. I will be going over what you need to learn, resources, and what you need to do after. It is critically important that you take EACH section to heart
 
