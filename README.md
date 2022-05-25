@@ -1,6 +1,6 @@
 ## Introduction, Background, & Disclaimers
 
-Hello everyone, in this post I will be writing a detailed guide on how to get a full-stack engineer job the self teaching way. This will include a more efficient version of what I did so you don't waste time. I will be going over what you need to learn, resources, and what you need to do after. It is critically important that you take EACH section to heart
+In this post I will be writing a detailed guide on how to get a full-stack engineer job the self teaching way. This will include a more efficient version of what I did so you don't waste time. I will be going over what you need to learn, resources, and what you need to do after. It is critically important that you take EACH section to heart.
 
 A little background about me, I have been a construction engineer for a year when I decided construction was not for me and I wanted to go somewhere else. I took quizzes on what I should become, I landed on fullstack development and I haven't looked back since. Since then, I have learned a lot, built great projects, made connections, worked a contract, and landed a full time job. This process took me 8 months and it may take more or less time for you depending on who you are.
 
@@ -49,7 +49,7 @@ If you are a full stack engineer, this can be the only language you ever need to
 Not all of the book will make sense to you now, but I promise you will use its information once you move on to React, Node, and LeetCode. Furthermore, watch the event loop video which is important to understand JS in the browser and will allow you to do some cool stuff.
 
 - [The Modern JavaScript Tutorial](https://javascript.info/)
-- [What is an Even Loop Anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1s)
+- [What is an Event Loop Anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1s)
 
 Congrats, you now understand HTML, CSS, and Vanilla JS
 
@@ -69,6 +69,8 @@ Now that you learned Git, HTML, CSS, and JS, you will be building your first pro
 For each and every single project step in this process, you NEED to THINK of what YOU WANT to build and build it! Since this is your first project, be realistic with what you can accomplish but CHALLENGE yourself. What you have learned so far will NOT be everything you need to make this project happen. Google is your friend as you will need to visit MANY websites to learn how to make a certain thing work.
 
 Here's a big hint: there are a lot of great free API's online that you can use for your project (Star Wars API, Weather API, Google Maps API, the list goes on).
+
+Furthermore, you have to make your projects dynamic and mobile friendly. Look up CSS media queries as a starter on how to do that.
 
 Challenge yourself, prepare to be humbled, learn, and build an AWESOME first project. Start strong!
 
@@ -100,8 +102,8 @@ Let's move on.
 
 Now that you know TypeScript and React, build a React TS project using the same general guides for your first project (unique, ambitious, and awesome). Again, I will let you decide what you want to build for yourself. Make it a front end only, don't worry about servers and databases for now. Some resources to help:
 
-- React & TS environments: https://www.youtube.com/watch?v=Z5iWr6Srsj8&t=23s
-- Create React App TS: https://create-react-app.dev/docs/adding-typescript/
+- [React & TS environments](https://www.youtube.com/watch?v=Z5iWr6Srsj8&t=23s)
+- [Create React App TS](https://create-react-app.dev/docs/adding-typescript/)
 
 Once you've built a project you're happy with, let's move on.
 
@@ -118,8 +120,10 @@ MongoDB is a NoSQL database, which means each data type is unrelated to other da
 - [MongoDB crash course](https://www.youtube.com/watch?v=-56x56UppqQ)
 - [Mongoose crash course](https://www.youtube.com/watch?v=DZBGEVgL2eE)
 - [Get started with PSQL](https://www.youtube.com/watch?v=fZQI7nBu32M)
+- [SQL for Beginners](https://www.youtube.com/watch?v=5hzZtqCNQKk&t=8218s)
+- [PG Node](https://node-postgres.com/)
 
-Furthermore, you should learn PG node if you want to use PSQL.
+You should learn PG node if you want to use PSQL in your node environments.
 
 ## Build a full-stack project with either MERN or PERN
 
@@ -171,8 +175,12 @@ Now that you have a resume, GitHub, projects, and LC under your belt you can sta
 
 You can still land a job by cold applications, and that's what I did. There are plenty of guides on this section online, I'll leave that research to you.
 
+At this point, your projects and the knowledge you've built while working on them will CARRY you through your interviews. Believe in yourself and what you've accomplished.
+
 ## Closing Remarks
 
 This by no means is a one size fits all, and you will likely deviate from it a little bit and that's completely okay. I intentionally left a lot of details out because you will need to be comfortable running on your own, be ready to do LOTS AND LOTS of research to get what you want.
 
 Wishing you all luck on your journeys. Stay strong, ambitious, patient, and hungry my friends. Please let me know in the comments if you have any questions or input and I will be glad to answer.
+
+EDIT: Thanks to everyone for the feedback, I will be updating this list to be better. I plan on keeping it up-to-date as much as I can so it can always be a go-to on Reddit.
