@@ -143,7 +143,7 @@ This is incredibly important if you want to stand out, here is some extra stuff 
 - [React Router](https://www.youtube.com/watch?v=Law7wfdg_ls) - A library that helps manage pages on your apps.
 - [JWT & bcrypt](https://www.youtube.com/watch?v=mbsmsi7l3r4) - Straightforward packages that help secure your backends: 
 - [Socket.io](https://www.youtube.com/watch?v=9HFwJ9hrmls&t=429s) - Websocketting is a powerful alternative to traditional REST API's. This establishes a two way connection between your server and frontend where the server can send information to the client at any time! It allows you to build things like multiplayer games, chat apps, streaming services, and more!
-- [Next.js](https://nextjs.org/) - A powerful React/Express framework built on top of React Router. It allows your website to be statically served by the server (SSR). Improved performance and overall security!
+- [Next.js](https://nextjs.org/) - A powerful React/Express framework that takes React away from being a SPA without feeling like an old fashioned website. It allows your website to be statically served by the server (SSR). Improved performance and overall security!
 
 Whatever you decide to learn (I recommend all) you MUST either build a project with all these technologies or implement them in your old projects. 
 
