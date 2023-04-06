@@ -143,7 +143,7 @@ This is incredibly important if you want to stand out, here is some extra stuff 
 - [React Router](https://www.youtube.com/watch?v=Law7wfdg_ls) - A library that helps manage pages on your apps.
 - [JWT & bcrypt](https://www.youtube.com/watch?v=mbsmsi7l3r4) - Straightforward packages that help secure your backends: 
 - [Socket.io](https://www.youtube.com/watch?v=9HFwJ9hrmls&t=429s) - Websocketting is a powerful alternative to traditional REST API's. This establishes a two way connection between your server and frontend where the server can send information to the client at any time! It allows you to build things like multiplayer games, chat apps, streaming services, and more!
-- [Next.js](https://nextjs.org/) - A powerful React/Express framework that takes React away from being a SPA without feeling like an old fashioned website. It allows your website to be statically served by the server (SSR). Improved performance and overall security!
+- [Next.js](https://nextjs.org/) - A powerful React/Node framework that takes React away from being a SPA without feeling like an old fashioned website. It allows your website to be served by the server (SSR) or statically generated (SSG). It makes building apps incredibly intuitive with its structure and features. Improved performance and overall security!
 
 Whatever you decide to learn (I recommend all) you MUST either build a project with all these technologies or implement them in your old projects. 
 
@@ -157,7 +157,9 @@ To build your portfolio, you will need to host your projects online. To do so, y
 - [Netlify (Frontend)](https://www.netlify.com/)
 - For databases, there are a lot of options for SQL, but you should use MongoDB Atlas for MongoDB.
 
-Now that you're familiar with these two, push all your projects to GitHub and use Heroku & Netlify to host them as needed. Pin your projects on your GitHub, make a clean readme for each one, and a readme for your profile to stand out.
+I will also plugin [Amazon Web Services](https://aws.amazon.com/). They have pretty much everything you need for hosting (Amplify or S3/CloudFront for Frontend, EC2 for Backend, RDS for Database, etc.). A lot of these services are generous and have really good free tiers (review [this page for all pricing tiers](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)). Having AWS on your resume is a HUGE boost to your credentials and will allow you to be really flexible with what you build.
+
+Now that you're familiar with these options, push all your projects to GitHub and use Heroku & Netlify to host them as needed. Pin your projects on your GitHub, make a clean readme for each one, and a readme for your profile to stand out.
 
 For your resume, you will highlight your projects and all the skills you learned. [Here is mine as an example](https://www.reddit.com/r/resumes/comments/tk4r5h/hey_all_im_a_self_taught_full_stack_developer/)
 
