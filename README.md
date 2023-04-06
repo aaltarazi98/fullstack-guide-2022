@@ -149,6 +149,8 @@ Whatever you decide to learn (I recommend all) you MUST either build a project w
 
 ## Build your Portfolio & Resume
 
+IMPORTANT UPDATE: As of the time of this edit, Heroku no longer supports a free-tier. An alternative for this would be [Railway](https://railway.app/). It has a free tier that doesn't run 24/7, but it will give you what you need as far as experience goes. The dev tier will give you what you need and shouldn't cost a penny.
+
 To build your portfolio, you will need to host your projects online. To do so, you must get familiar with Heroku; where you will host your servers, and Netlify; where you will host your websites. 
 
 - [Heroku (Backend)](https://www.heroku.com/)
